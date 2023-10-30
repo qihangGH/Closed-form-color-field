@@ -5,10 +5,7 @@ Neural radiance field (NeRF) enables the synthesis of cutting-edge realistic nov
 
 ```
 @inproceedings{fang2023reducing,
-  author       = {{Qihang Fang and
-                  Yafei Song} and
-                  Keqiang Li and
-                  Liefeng Bo},
+  author       = {{Qihang Fang and Yafei Song} and Keqiang Li and Liefeng Bo},
   title        = {{Reducing Shape-Radiance Ambiguity in Radiance Fields with a Closed-Form Color Estimation Method}},
   booktitle    = {Advances in Neural Information Processing Systems 37: Annual Conference
                   on Neural Information Processing Systems 2023, NeurIPS 2023},
